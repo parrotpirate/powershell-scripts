@@ -3,7 +3,7 @@ $startProfile = '--profile-email=parrotpirate@gmail.com'
 $startMode = '--start-maximized'
 $startPage = 'https://rewards.bing.com/'
 $logFile = "C:\Users\parro\Tools\bing_rewards_log.txt"
-$endPage = 'https://www.reddit.com/r/MicrosoftRewards/new/?f=flair_name%3A"Quizzes%20and%20Answers"'
+$endPage = 'https://www.reddit.com/r/MicrosoftRewards/new/?f=flair_name%3A%22Quizzes%20and%20Answers%22'
 
 # nircmd win close process chrome.exe | Out-Null
 # sleep 0.5
